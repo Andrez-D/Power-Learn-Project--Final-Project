@@ -89,8 +89,8 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Nwokike/yieldwise-ai.git](https://github.com/Nwokike/yieldwise-ai.git)
-    cd yieldwise-ai
+    git clone [https://github.com/Andrez-D/Power-Learn-Project--Final-Project.git]
+    cd yieldwise
     ```
 
 2.  **Create and activate a virtual environment:**
