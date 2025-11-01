@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
   <img src="https://img.shields.io/badge/Flask-2.0-black?style=for-the-badge&logo=flask" alt="Flask">
   <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript" alt="Frontend">
-  <img src="https://img.shields.io/badge/Hackathon-VIBE%20CODING%203.0-brightgreen?style=for-the-badge" alt="Hackathon">
+  
 </p>
 
 > An all-in-one platform for African farmers to plan profitable farms, diagnose plant diseases with a photo, and build their agricultural business using the power of AI.
