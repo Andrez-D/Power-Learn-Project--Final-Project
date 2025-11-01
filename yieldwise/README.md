@@ -15,7 +15,7 @@
 
 > An all-in-one platform for African farmers to plan profitable farms, diagnose plant diseases with a photo, and build their agricultural business using the power of AI.
 
-**Developed by Onyeka Nwokike**
+**Developed by Kipruto Andrew Kipngetich**
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## 📖 About The Project
 
-In Nigeria and across Africa, millions of smallholder farmers face a critical information gap. Limited access to expert agronomic advice, the high cost of soil testing, and the devastating impact of pests and diseases lead to reduced yields and financial instability. This directly impacts food security and economic growth, a core challenge of **SDG 2: Zero Hunger**.
+In Kenya and across Africa, millions of smallholder farmers face a critical information gap. Limited access to expert agronomic advice, the high cost of soil testing, and the devastating impact of pests and diseases lead to reduced yields and financial instability. This directly impacts food security and economic growth, a core challenge of **SDG 2: Zero Hunger**.
 
 **YieldWise AI** is our solution. It's a web-based platform that puts an AI-powered agronomist and a plant pathologist in the pocket of every farmer, for free. By leveraging state-of-the-art AI, we provide instant, actionable intelligence that empowers farmers to make smarter, data-driven decisions, increase their profitability, and contribute to a more food-secure future.
 
@@ -131,18 +131,19 @@ To get a local copy up and running, follow these simple steps.
 
 ## 👨‍💻 About The Author
 
-**Onyeka Nwokike**
+**Kipruto Andrew Kipngetich**
 
-I am an Agricultural and Bioresources Engineer and a Software Developer, uniquely positioned at the intersection of sustainable agriculture and scalable technology. My background includes professional experience with the National Agricultural Seeds Council of Nigeria, giving me firsthand insight into the challenges our farmers face. As a current student at PLP Africa, I am passionate about leveraging AI to create practical, impactful solutions.
+I am a software developer on a mission to improve the technology and build software applications to solve real world problems. As a current student at PLP Africa, I am passionate about leveraging AI to create practical, impactful solutions.
 
 <p align="left">
-  <a href="https://github.com/Nwokike" target="_blank">
+  <a href="https://github.com/Andrez-D" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://nwokike.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:nwokikeonyeka@gmail.com">
+
+  <a href="rutoandrew06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+
+
